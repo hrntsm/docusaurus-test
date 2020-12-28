@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Latin-ish
+title: test-new-title
 sidebar_label: Example Page
 ---
 
